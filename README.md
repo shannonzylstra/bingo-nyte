@@ -1,2 +1,4 @@
 # bingo-nyte
-Bingo night is coming to a mobile device near you!
+Bingo nyte is coming to a client application near you!
+
+*Note: nyte with a 'y' because, python.*
